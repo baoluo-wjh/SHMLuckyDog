@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music/AiPinCaiHuiYing_3.mp3</file>
+        <file>music/ErQuanYinYue_4.mp3</file>
+        <file>music/GongXiFaCai_1.mp3</file>
+        <file>music/HaoYunLai_0.mp3</file>
+        <file>music/LaDeCiJi_2.mp3</file>
+        <file>picture/background.jpg</file>
+        <file>picture/music.ico</file>
+    </qresource>
+</RCC>
